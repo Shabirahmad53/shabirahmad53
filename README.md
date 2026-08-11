@@ -1,79 +1,55 @@
-<h1 align="center">👋 Hi, I'm Shabir Ahmad Khan</h1>
+<div align="center">
 
-<h3 align="center">
-  💻 Full Stack Web Developer | ⚡ MERN Stack Developer | 🌐 Web Content Specialist
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:7f00ff,100:ff00cc&height=220&section=header&text=Shabir%20Ahmad%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shabirahmad53&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<h2>👋 Hi, I'm Shabir Ahmad Khan</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React+Developer;Web+Content+Specialist;UI%2FUX+%26+Modern+Design+Enthusiast" />
+
+<br/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=shabirahmad53&label=PROFILE%20VIEWS&color=7f00ff&style=for-the-badge" />
 </p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Web Developer** focused on building modern, responsive, and user-friendly web applications.
+<img align="right" width="350" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif">
 
-- 💻 Specialized in **MERN Stack Development**
-- ⚛️ Building applications with **React.js**
-- 🟢 Developing backend systems with **Node.js & Express.js**
-- 🍃 Working with **MongoDB**
-- 🎨 Interested in **modern UI/UX and clean web design**
-- 🌐 Skilled in **Web Content Uploading & Content Management**
-- 📱 Focused on responsive and user-friendly websites
-- 🚀 Always learning and improving my development skills
+I'm a passionate **Full Stack Web Developer** focused on building modern, responsive and user-friendly web applications.
 
----
+### 💻 What I Do
 
-## 🛠️ Skills & Technologies
+- ⚛️ **MERN Stack Development**
+- 🌐 **Full Stack Web Development**
+- 🎨 **Modern UI/UX & Web Design**
+- 📱 **Responsive Web Development**
+- 🌐 **Web Content Uploading**
+- 📝 **Web Content Management**
+- 🖼️ **Website Media & Content Updates**
+- 🚀 Building practical and user-friendly applications
 
-### 💻 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,netlify" />
-</p>
+<br clear="right"/>
 
 ---
 
-## 🌐 Web Content Skills
+# ⚡ My Main Focus
 
-- 📤 Website Content Uploading
-- 📝 Web Content Management
-- 🖼️ Image & Media Uploading
-- 📄 Website Page Content Updates
-- 🔄 Content Organization & Maintenance
-- 🎨 Basic Web Design & UI Improvements
-- 📱 Responsive Content Presentation
+<div align="center">
 
----
+### 💻 Full Stack Development
 
-## 🎯 My Focus
+**Frontend → Backend → Database**
 
 ```text
-MERN Stack Development
-        ↓
-React.js → Node.js → Express.js → MongoDB
-        ↓
-Modern UI/UX Design
-        ↓
-Responsive Web Applications
-        ↓
-Web Content Management
+React.js
+    ↓
+Node.js
+    ↓
+Express.js
+    ↓
+MongoDB
