@@ -1,31 +1,79 @@
-<h1 align="center">Hi 👋, I'm shabir Ahmad Khan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">👋 Hi, I'm Shabir Ahmad Khan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shabirahmad53&label=Profile%20views&color=0e75b6&style=flat" alt="shabirahmad53" /> </p>
+<h3 align="center">
+  💻 Full Stack Web Developer | ⚡ MERN Stack Developer | 🌐 Web Content Specialist
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shabirahmad53" alt="shabirahmad53" /></a> </p>
-
-- 🔭 I’m currently working on **Spec2Price: A Machine Learning Based Laptop Price Prediction System**
-
-- 👯 I’m looking to collaborate on **Amazon-Design Using CSS**
-
-- 🤝 I’m looking for help with **Online Shopping Website**
-
-- 📫 How to reach me **shabirahmadkhan153@gmail.com**
-
-- ⚡ Fun fact **I think i am brave**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shabir ahmad khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shabir ahmad khan" height="30" width="40" /></a>
-<a href="https://fb.com/shabir ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shabir ahmad" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shabirahmad53&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shabirahmad53&show_icons=true&locale=en&layout=compact" alt="shabirahmad53" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shabirahmad53&show_icons=true&locale=en" alt="shabirahmad53" /></p>
+I'm a passionate **Full Stack Web Developer** focused on building modern, responsive, and user-friendly web applications.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shabirahmad53&" alt="shabirahmad53" /></p>
+- 💻 Specialized in **MERN Stack Development**
+- ⚛️ Building applications with **React.js**
+- 🟢 Developing backend systems with **Node.js & Express.js**
+- 🍃 Working with **MongoDB**
+- 🎨 Interested in **modern UI/UX and clean web design**
+- 🌐 Skilled in **Web Content Uploading & Content Management**
+- 📱 Focused on responsive and user-friendly websites
+- 🚀 Always learning and improving my development skills
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,netlify" />
+</p>
+
+---
+
+## 🌐 Web Content Skills
+
+- 📤 Website Content Uploading
+- 📝 Web Content Management
+- 🖼️ Image & Media Uploading
+- 📄 Website Page Content Updates
+- 🔄 Content Organization & Maintenance
+- 🎨 Basic Web Design & UI Improvements
+- 📱 Responsive Content Presentation
+
+---
+
+## 🎯 My Focus
+
+```text
+MERN Stack Development
+        ↓
+React.js → Node.js → Express.js → MongoDB
+        ↓
+Modern UI/UX Design
+        ↓
+Responsive Web Applications
+        ↓
+Web Content Management
