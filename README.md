@@ -1,78 +1,173 @@
-<h1 align="center">Hi 👋, I'm Shabir Ahmad Khan</h1>
-<h3 align="center">MERN Stack Developer | Full Stack Web Developer</h3>
+::: {align="center"}<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:7f00ff,100:ff00cc&height=220&section=header&text=Shabir%20Ahmad%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>{=html}
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+modern+web+apps;React+%7C+Node.js+%7C+MongoDB;Always+learning+new+tech" alt="Typing SVG" />
+<h2>
+
+👋 Hi, I'm Shabir Ahmad Khan
+
+</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React+Developer;Web+Content+Specialist;UI%2FUX+%26+Modern+Design+Enthusiast" />{=html}
+
+<br/>{=html}
+
+<img src="https://komarev.com/ghpvc/?username=shabirahmad53&label=PROFILE%20VIEWS&color=7f00ff&style=for-the-badge" />{=html}:::
+
+🚀 About Me
+
+<img align="right" width="350" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="Developer animation">{=html}
+
+I'm a passionate Full Stack Web Developer focused on buildingmodern, responsive, and user-friendly web applications.
+
+💻 What I Do
+
+⚛️ MERN Stack Development
+
+🌐 Full Stack Web Development
+
+🎨 Modern UI/UX & Web Design
+
+📱 Responsive Web Development
+
+🌐 Web Content Uploading
+
+📝 Web Content Management
+
+🖼️ Website Media & Content Updates
+
+🚀 Building practical and user-friendly applications
+
+<br clear="right"/>{=html}
+
+⚡ My Main Focus
+
+::: {align="center"}
+
+💻 Full Stack Development
+
+Frontend → Backend → Database
+
+React.js
+    ↓
+Node.js
+    ↓
+Express.js
+    ↓
+MongoDB
+
+🎨 Good Design
+
+Modern • Clean • Responsive • User-Friendly
+
+🌐 Web Content
+
+Content Uploading • Content Management • Website Updates • MediaManagement:::
+
+🛠️ Tech Stack
+
+🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />{=html}
+
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/shabir-ahmad-khan-6a3251403"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:shabirahmadkhan153@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://instagram.com/shabirahmad8373"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Shabirahmad53&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+⚙️ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />{=html}
+
 </p>
 
----
+🗄️ Database
 
-### 👨‍💻 About Me
+<p>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+<img src="https://skillicons.dev/icons?i=mongodb" />{=html}
 
-- 🌍 Based in **Pakistan**
-- 💼 **MERN Stack Developer** passionate about clean, responsive web apps
-- 🚀 I build **Full Stack** projects — Frontend → Backend → Database
-- 🎨 Interested in **Modern UI/UX** and practical user-friendly design
-- 📫 Reach me at **shabirahmadkhan153@gmail.com**
-- ⚡ Fun fact: I turn ideas into working web applications
-
-<br clear="right"/>
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,mongodb,git,github,vscode&perline=6" alt="Tech Stack"/>
 </p>
 
----
+🔧 Tools
 
-### 📊 GitHub Stats
+<p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shabirahmad53&show_icons=true&theme=default&hide_border=true&title_color=0969DA&text_color=24292f&icon_color=0969DA" height="165" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shabirahmad53&theme=default&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" height="165" alt="GitHub Streak"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,netlify" />{=html}
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabirahmad53&layout=compact&theme=default&hide_border=true&title_color=0969DA&text_color=24292f" width="420" alt="Top Languages"/>
-</p>
+🌐 Web Content Skills
 
----
+📤 Content Uploading     📝 Content Management
 
-### 🚀 Featured Projects
+Upload website content     Manage website pagesUpload images & media    Update existing contentAdd documents/files     Organize website content
 
-| Project | Description |
-|---------|-------------|
-| [markdown-editor](https://github.com/Shabirahmad53/markdown-editor) | Modern markdown editor built with React |
-| [portfolio](https://github.com/Shabirahmad53/portfolio) | Personal portfolio website |
-| [Bank-Dashboard](https://github.com/Shabirahmad53/Bank-Dashboard) | Banking dashboard web application |
-| [Spec2Price](https://github.com/Shabirahmad53/Spec2Price-ML-Based-Laptop-Price-Prediction-System) | ML-based laptop price prediction system |
+    🎨 Content Design             🔄 Website Updates
 
----
+Improve content presentation   Update website informationResponsive presentation       Maintain website content
 
-### 🤝 Connect With Me
+🚀 Featured Projects
 
-<p align="center">
-  <a href="https://linkedin.com/in/shabir-ahmad-khan-6a3251403">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:shabirahmadkhan153@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+📋 LocalTasker
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=0969DA&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F" alt="Footer"/>
-</p>
+A ToDo application built with React and LocalStorage.
+
+Technologies: React.js • JavaScript • CSS • LocalStorage
+
+📝 Markdown Editor
+
+A Markdown editor with live preview functionality.
+
+Technologies: React.js • JavaScript • Markdown • CSS
+
+📊 Progress Bar
+
+An animated React progress bar using the useEffect hook.
+
+Technologies: React.js • JavaScript • CSS
+
+📊 GitHub Statistics
+
+::: {align="center"}<img src="https://github-readme-stats.vercel.app/api?username=shabirahmad53&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>{=html}
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabirahmad53&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>{=html}:::
+
+🔥 GitHub Streak
+
+::: {align="center"}<img src="https://streak-stats.demolab.com?user=shabirahmad53&theme=tokyonight&hide_border=true&border_radius=15" />{=html}:::
+
+🐍 My Contribution Journey
+
+::: {align="center"}<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>{=html}:::
+
+💡 My Developer Philosophy
+
+::: {align="center"}
+
+Learn → Build → Improve → Share → Repeat 🚀
+
+💻 Code with purpose
+
+🎨 Design with creativity
+
+🚀 Build with passion
+
+:::
+
+🤝 Connect With Me
+
+::: {align="center"}<a href="https://github.com/Shabirahmad53">{=html}<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />{=html}</a>{=html}
+
+<a href="https://www.linkedin.com/">{=html}<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />{=html}</a>{=html}
+
+<a href="mailto:your-email@gmail.com">{=html}<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />{=html}</a>{=html}:::
+
+::: {align="center"}
+
+<h3>
+
+⭐ Thanks for visiting my profile!
+
+</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:7f00ff,100:ff00cc&height=120&section=footer" width="100%"/>{=html}:::
