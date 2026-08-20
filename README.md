@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shabir Ahmad Khan 👋</h1>
 
-<p align="center"><b>Full Stack Web Developer · ML-Powered Web Apps</b></p>
+<p align="center"><b>Full Stack Web Developer · ML-Powered Web Apps .Wordpress developer</b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF7A00&center=true&vCenter=true&width=500&lines=Developing+Web+Applications;React+%7C+Nodejs+%7C+Php" alt="Typing SVG" />
